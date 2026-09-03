@@ -1,5 +1,5 @@
 ---
-title: Oli's Internet Corner
+title: mox' internet corner
 layout: base.njk
 ---
 
