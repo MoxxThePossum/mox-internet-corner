@@ -8,7 +8,7 @@ layout: links.njk
 [YouTube channel](https://youtube.com/@TheOliveOli38)
 - Check out my videos on Mario Kart and Mario platformers!
 
-[GitHub page](https://github.com/TheOliveOli38)
+[GitHub page](https://github.com/MoxxThePossum)
 - Check out my projects and this site's source code!
 
 ## Cool sites!

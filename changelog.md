@@ -6,6 +6,14 @@ layout: base.njk
 # Site Changelog
 ## Watch the evolution of (most) of the site. Dates are in MM/DD/YYYY.
 
+### 9/3/2026
+#### i'm back??? yes! preparing for site v4 as we speak.
+#### as for site v3 (and legacy):
+#### - [v1] added link to return to site current
+#### - [v2] removed chat and aeroring, as they were empty
+#### - [v3] removed last.fm widget
+#### - [all] updated website link
+
 ### 10/9/2025
 #### - Further mobile sidebar tweaks (when does it end??????)
 
