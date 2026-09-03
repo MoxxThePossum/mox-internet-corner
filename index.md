@@ -3,16 +3,16 @@ title: mox' internet corner
 layout: base.njk
 ---
 
-## Hello Hello! I'm TheOliveOli.
-### Mario Kart Enjoyer and amateur YouTuber.
+# oh, hi! welcome to my site!
+### (it's boring, i know)
 
-**Note:** This site is always under construction, and bound to drastic changes at any point!
+---
 
-### Wanna see what's new? Check [the changelog!](changelog/)
+## uhhh who are you?
+go check my **[about page](about/)** to find out!
 
-----
+## any text walls here?
+i write blog posts in the very accurately named **[blog thing](blog/)**!
 
-## Welcome to Internet Corner v3.
-### For archival purposes, you can still view the previous iterations of my site!
-#### [View Internet Corner v1!](legacy/v1/)
-#### [View Internet Corner v2!](legacy/v2/)
+## heyyy wait... something's different.
+spotted anything new? check the **[changelog](changelog/)** to see if its there!

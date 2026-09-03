@@ -36,24 +36,14 @@ img {
         margin-right: 4vw;
     }
 }
-/* SF Mono font declaration */
-@font-face {
-    font-family: SFMono;
-    src: url(/assets/mono.otf);
-}
-@font-face {
-    font-family: SFMono;
-    src: url(/assets/monob.otf);
-    font-weight: bold;
-}
 
 /* JetBrains Mono font declaration */
 @font-face {
     font-family: JBMono;
-    src: url(/assets/mono2.ttf);
+    src: url(/assets/mono.ttf);
 }
 @font-face {
     font-family: JBMono;
-    src: url(/assets/mono2b.ttf);
+    src: url(/assets/monob.ttf);
     font-weight: bold;
 }
